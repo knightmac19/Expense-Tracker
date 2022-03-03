@@ -4,22 +4,22 @@ const App = () => {
   const expenses = [
     {
       id: "el1",
-      title: "Car Insurance",
-      amount: 294.67,
-      date: new Date(2022, 1, 28),
+      title: "Toilet Paper",
+      amount: 94.12,
+      date: new Date(2020, 7, 14),
     },
     {
       id: "el2",
-      title: "Groceries",
-      amount: 82.44,
-      date: new Date(2022, 2, 18),
+      title: "New TV",
+      amount: 799.49,
+      date: new Date(2021, 2, 12),
     },
-    { id: "el3", title: "Rent", amount: 943, date: new Date(2022, 3, 31) },
+    { id: "el3", title: "Car Insurance", amount: 294.67, date: new Date(2021, 2, 28) },
     {
       id: "el4",
-      title: "Date Night",
-      amount: 74.97,
-      date: new Date(2022, 6, 31),
+      title: "New Desk (Wooden)",
+      amount: 450,
+      date: new Date(2021, 5, 12),
     },
   ];
 
